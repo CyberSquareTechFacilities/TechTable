@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="textoHiperLink">Não é cadastrado? Cadastre-se clicando <a href="CadastroPt1">aqui</a></string>
+</resources>
